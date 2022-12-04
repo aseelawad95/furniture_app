@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-import 'package:http/http.dart';
-
 import '../../Core/Router/router_constant.dart';
 
 class WelcomePage extends StatelessWidget {

@@ -52,10 +52,6 @@ class MyRouter {
           return _route(SignUpScreen());
         }
 
-      // case splash:
-      // {
-      //   return _route(SplashScreen());
-      // }
       case welcomepage2:{
         return _route(WelcomePage());
       }
