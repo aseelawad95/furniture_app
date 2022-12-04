@@ -27,7 +27,6 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-
     // var uid = Prefs.getStringValue("uid");
     return  MultiProvider(
         providers: [
